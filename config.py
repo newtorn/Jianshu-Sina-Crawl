@@ -3,8 +3,8 @@
 """
 
 # 微博账户设置
-USERNAME = "18830292697"                    # 微博账号
-PASSWORD = "12090802.tz"                    # 微博密码
+USERNAME = "xxxxxxxxxxx"                    # 微博账号
+PASSWORD = "xxxxxxxxxxx"                    # 微博密码
 
 
 # 发送设置
