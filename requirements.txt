@@ -1,7 +1,7 @@
 requests==2.21.0
 numpy==1.16.4
 jieba==0.39
-rsa==4.0
+rsa==4.7
 schedule==0.6.0
 gevent==1.4.0
 wordcloud==1.5.0
